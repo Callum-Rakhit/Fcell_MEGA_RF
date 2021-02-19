@@ -1,0 +1,25 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.rds
+
+# Plots
+Output/*
+*.html
+*.pdf
+
+# Datasets (too large/want to keep control of our data)
+Data/*
+Callum.zip
+
+*.raw
+*.ped
+*.map
+*.csv
+
+# Models (large)
+Models/*
+
+# Previous folder
+sickle_fcell_rf/*
